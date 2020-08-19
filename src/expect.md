@@ -21,3 +21,11 @@ I am committed to the principle of universal learning. This means that our class
 | failing F < 60.0 |
 
 note .9 = .9 with bar notation
+
+# Grading Opportunities
+
+|    |    |    |
+| --- | --- | --- |
+| Four Data Science insights | 15% | Due every third Friday |
+| Four Individual Projects | 60% | Due every third Saturday |
+| Final Project | 25% | due by 5PM Tuesday, November 24th |
