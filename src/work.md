@@ -17,4 +17,5 @@
 - [Abby Gaddi](https://abgaddi.github.io/data_abm/)
 - [Monica Alicea](https://mlalicea.github.io/agent_based_modeling/)
 - [Jordan Landrum](https://jelandrum.github.io/workshop/)
+- [Sarena Oberoi](https://sarenaoberoi.github.io/AgentBasedModeling/)
 
