@@ -8,17 +8,18 @@
 		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
 			- install R & RStudio
 - Friday:
-	- Getting started
+	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems
 	- For next time
 		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
 			- Creating and Plotting Objects
 			- Creating a More Complicated Plot while also creating and then using a Data Frame
 			- Challenge Question
-			- Post a link to your deliverables taht includes a brief explanation of your plots to your GitHub pages index
+			- Create a markdown file that includes your deliverables and a brief explanation about your plots; include a link to this file on your GitHub index page
 
 ## Week 2 (August 24st)
-- Monday: 
-	- Getting started
+- Monday:
+	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems 
+	- Working with GitHub Desktop
 - Wednesday:
 	- Getting started
 - Friday: add/drop period ends
