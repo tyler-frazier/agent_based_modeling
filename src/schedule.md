@@ -5,9 +5,15 @@
 	- Introductions, zoom, slack, github, R & RStudio
 	- For next time:
 		- [Getting Started with GitHub](https://tyler-frazier.github.io/dsbook/gitstart.html)
-		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
+		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html) _try to install R & RStudio_
 - Friday:
 	- Getting started
+	- For next time
+		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
+			- Creating and Plotting Objects
+			- Creating a More Complicated Plot while also creating and then using a Data Frame
+			- Challenge Question
+			- Post a link to your deliverables taht includes a brief explanation of your plots to your GitHub pages index
 
 ## Week 2 (August 24st)
 - Monday: 
