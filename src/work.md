@@ -18,4 +18,5 @@
 - [Monica Alicea](https://mlalicea.github.io/agent_based_modeling/)
 - [Jordan Landrum](https://jelandrum.github.io/workshop/)
 - [Sarena Oberoi](https://sarenaoberoi.github.io/AgentBasedModeling/)
+- [Katherine Lannen](https://kelannen.github.io/Agent_Based_Modeling/)
 
