@@ -20,6 +20,8 @@
 - Monday:
 	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems 
 	- Working with GitHub Desktop
+	- For next time
+		- [Projecting, Plotting and Labelling Administrative Subdivisions](https://tyler-frazier.github.io/dsbook/describe.html#projecting-plotting-and-labelling-administrative-subdivisions)
 - Wednesday:
 	- Getting started
 - Friday: add/drop period ends
