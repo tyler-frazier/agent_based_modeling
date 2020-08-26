@@ -23,7 +23,9 @@
 	- For next time
 		- [Projecting, Plotting and Labelling Administrative Subdivisions](https://tyler-frazier.github.io/dsbook/describe.html#projecting-plotting-and-labelling-administrative-subdivisions)
 - Wednesday:
-	- Getting started
+	- Review selected locations, discuss computational limits of R relative to population and development data science methods
+	- For next time
+		- [Extracting Populations from a Raster and Aggregating to each Unit](https://tyler-frazier.github.io/dsbook/describe.html#extracting-populations-from-a-raster-and-aggregating-to-each-unit)
 - Friday: add/drop period ends
 
 ## Week 3 (August 31st)
