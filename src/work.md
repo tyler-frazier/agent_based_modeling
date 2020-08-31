@@ -10,7 +10,6 @@
 - [Jacob Hoffman](https://jmhoffman4.github.io/DATA-440/)
 - [Yaw Ofori-Addae](https://oforiaddaejnr.github.io/ABM/)
 - [Devika Puri](https://dpuri-wm.github.io/Agent-Based-Modelling/)
-- [Conrad Ning](https://cning0506.github.io/DATA-440/)
 - [Matt Crittenden](https://micrittenden.github.io/Data440-AgentBasedModelling/)
 - [Zoe Metzger](https://zametzger.github.io/AgentBasedModeling/)
 - [Abby Gaddi](https://abgaddi.github.io/data_abm/)
@@ -22,4 +21,5 @@
 - [Justin Cross](https://justinrcross.github.io/AgentBasedModeling/)
 - [Laura Opsahl-Ong](https://hopsalong.github.io/AgentBasedModeling/)
 - [Matthew McCormack](https://msmccormack.github.io/DATA440/)
+- [Sebastian Ruiz](https://.../)
 
