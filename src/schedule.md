@@ -30,19 +30,23 @@
 
 ## Week 3 (August 31st)
 - Monday:
-	- Project 1 
+	- Project 1, Part 1 - site selection. [Creating a Geometric Bar Plot with your Simple Feature object](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
+		- Select a location. Produce a spatial statistical description of your selected areas administrative subdivisions. Also produce an a accompanying geometric bar plot that also describes the population of your selected administrative subdivisions.
+		- Select a subdivision from within your initially selectected location that will be the bases for your agent-based model.  Set the boundary of your selected location such that the aggregate population is between 250,000 and 400,000 persons.  
+		- Return to the previous exercise and repeat it, although this time produce the spatial statistical description and accompanying geometric barplot for your newly selected, higher resolution focus area with its increased scale.
+		- Do your best to include all administrative subdivisions available.  If a simple feature object that describes higher resolution administrative subdivisions in their disaggregate (i.e. adm2, adm3 or adm4) is not available from GADM, check other source (geoBoundaries).  Additionally, if higher resolution administrative subdivisions are not available, include all of the bordering subdivisions when generating your newly created units spatial description and accompanying bar plot.
 - Wednesday:
-	- Project 1 
+	- Project 1, Part 1 - site selection. [Creating a Geometric Bar Plot with your Simple Feature object](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
 - Friday:
-	- Project 1
+	- Project 1, Part 1 - site selection. [Creating a Geometric Bar Plot with your Simple Feature object](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
 
 ## Week 4 (September 7th) 
 - Monday:
-	- Project 1 
+	- Project 1, Part 2
 - Wednesday:
-	- Project 1 
+	- Project 1, Part 2
 - Friday:
-	- Project 1
+	- Project 1, Part 2
 
 ## Week 5 (September 14th)
 - Monday:
@@ -50,7 +54,7 @@
 - Wednesday:
 	- Project 1 
 - Friday:
-	- Data Science Insights
+	- Data Science Insights: Select and then investigate a new and interesting data science method. Write a brief introduction to the method including describing how it functions as well as one or two applications that relate to population, human development and/or agent-based modelling. Post your 1-2 page insight piece to your GitHub Pages site and be sure to link it back to your index. Be prepared to make a 4-6 minute presentation on your data science/agent-based modelling insight during class.
 - Saturday
 	- Project 1 due 
 
