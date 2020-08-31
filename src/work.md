@@ -1,14 +1,13 @@
 # Links to Responses
 
 - [Luke Denoncourt](https://luked77.github.io/Agent_based_modeling_DATA440/)
-- [Luca Paravano](https://ly-paravano.github.io/hello-world/)
+- [Luca Paravano](https://ly-paravano.github.io/ABM/)
 - [Elias Nafziger ](https://ehnafziger.github.io/DATA440/)
 - [Clare Heinbaugh](https://ceh-2000.github.io/ABM/)
 - [Max Bucholz](https://mabucholz.github.io/content/)
 - [Alex Raposo](https://aeraposo.github.io/Data-440-Raposo/)
 - [Emilio Luz-Ricca](https://emiliolr.github.io/abm/)
 - [Jacob Hoffman](https://jmhoffman4.github.io/DATA-440/)
-- [Ciaran Lowell](https://newfigton.github.io/Agent_based_modeling_DATA440/)
 - [Yaw Ofori-Addae](https://oforiaddaejnr.github.io/ABM/)
 - [Devika Puri](https://dpuri-wm.github.io/Agent-Based-Modelling/)
 - [Conrad Ning](https://cning0506.github.io/DATA-440/)
@@ -19,4 +18,8 @@
 - [Jordan Landrum](https://jelandrum.github.io/workshop/)
 - [Sarena Oberoi](https://sarenaoberoi.github.io/AgentBasedModeling/)
 - [Katherine Lannen](https://kelannen.github.io/Agent_Based_Modeling/)
+- [David Sun](https://dsun1001.github.io/agent-based-modeling/)
+- [Justin Cross](https://justinrcross.github.io/AgentBasedModeling/)
+- [Laura Opsahl-Ong](https://hopsalong.github.io/AgentBasedModeling/)
+- [Matthew McCormack](https://msmccormack.github.io/DATA440/)
 
