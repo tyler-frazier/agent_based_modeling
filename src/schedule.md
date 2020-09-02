@@ -37,8 +37,14 @@
 		- Do your best to include all administrative subdivisions available.  If a simple feature object that describes higher resolution administrative subdivisions in their disaggregate (i.e. adm2, adm3 or adm4) is not available from GADM, check other source (geoBoundaries).  Additionally, if higher resolution administrative subdivisions are not available, include all of the bordering subdivisions when generating your newly created units spatial description and accompanying bar plot.
 - Wednesday:
 	- Project 1, Part 1 - site selection. [Creating a Geometric Bar Plot with your Simple Feature object](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
+	- Project 1, Part 1 - define *de facto* settlement boundaries.  [De facto description of human settlements and urban areas](https://tyler-frazier.github.io/dsbook/defacto_descript.html)
+		- Continue by further investigating your site for selection by defining *de facto* settlement boundaries.   
 - Friday:
 	- Project 1, Part 1 - site selection. [Creating a Geometric Bar Plot with your Simple Feature object](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
+	- Project 1, Part 1 - define *de facto* settlement boundaries.  [De facto description of human settlements and urban areas](https://tyler-frazier.github.io/dsbook/defacto_descript.html)
+		- Continue by further investigating your site for selection by defining *de facto* settlement boundaries.  
+		- Increase the scope of your investigation by adding an additional administrative unit or applying the previous exercise to the parent administrative subdivision.
+		- Stretch goal: apply Zipf's law
 
 ## Week 4 (September 7th) 
 - Monday:
