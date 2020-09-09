@@ -48,17 +48,18 @@
 
 ## Week 4 (September 7th) 
 - Monday:
-	- Project 1, Part 2
+	- Project 1, Part 1 continued (Accessibility 1)
 - Wednesday:
-	- Project 1, Part 2
+	- Project 1, Part 2 [Accessibility 2 - Topography](https://tyler-frazier.github.io/dsbook/topography.html)
 - Friday:
-	- Project 1, Part 2
+	- Project 1, Part 2 [Accessibility 2](https://tyler-frazier.github.io/dsbook/topography.html)
+	- Project 1, Part 3 [Accessibility 3](https://tyler-frazier.github.io/dsbook/transport_health.html)
 
 ## Week 5 (September 14th)
 - Monday:
-	- Project 1 
+	- Project 1, Parts 1,2 & 3 - workshop 
 - Wednesday:
-	- Project 1 
+	- Project 1, Parts 1,2 & 3 - workshop
 - Friday:
 	- Data Science Insights: Select and then investigate a new and interesting data science method. Write a brief introduction to the method including describing how it functions as well as one or two applications that relate to population, human development and/or agent-based modelling. Post your 1-2 page insight piece to your GitHub Pages site and be sure to link it back to your index. Be prepared to make a 4-6 minute presentation on your data science/agent-based modelling insight during class.
 - Saturday
