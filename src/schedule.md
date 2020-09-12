@@ -52,8 +52,9 @@
 - Wednesday:
 	- Project 1, Part 2 [Accessibility 2 - Topography](https://tyler-frazier.github.io/dsbook/topography.html)
 - Friday:
-	- Project 1, Part 2 [Accessibility 2](https://tyler-frazier.github.io/dsbook/topography.html)
-	- Project 1, Part 3 [Accessibility 3](https://tyler-frazier.github.io/dsbook/transport_health.html)
+	- Project 1, Part 2 [Accessibility 2](https://tyler-frazier.github.io/dsbook/transport_health.html)
+	- Project 1, Part 2 [Accessibility 3](https://tyler-frazier.github.io/dsbook/topography.html)
+
 
 ## Week 5 (September 14th)
 - Monday:
