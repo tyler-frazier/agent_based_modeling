@@ -53,7 +53,7 @@
 	- Project 1, Part 2 [Accessibility 2 - Transport Systems](https://tyler-frazier.github.io/dsbook/transport_health.html)
 - Friday:
 	- Project 1, Part 2 [Accessibility 2 - Transport Systems](https://tyler-frazier.github.io/dsbook/transport_health.html)
-	- Project 1, Part 2 [Accessibility 3 - Topography](https://tyler-frazier.github.io/dsbook/topography.html)
+	- Project 1, Part 2 [Accessibility 3 - Topography](https://tyler-frazier.github.io/dsbook/topography.html) (optional stretch goal)
 
 
 ## Week 5 (September 14th)
@@ -66,7 +66,11 @@
 - Friday:
 	- Data Science Insights: Select and then investigate a new and interesting data science method. Write a brief introduction to the method including describing how it functions as well as one or two applications that relate to population, human development and/or agent-based modelling. Post your 1-2 page insight piece to your GitHub Pages site and be sure to link it back to your index. Be prepared to make a 4-6 minute presentation on your data science/agent-based modelling insight during class.
 - Saturday
-	- Project 1 due 
+	- Project 1 due: please include the following
+		-  Geometric bar plots that describe the population distribution of the political subdivisions associated with your selected location.  Include a justification for your selection and a basic description with your plot.
+		-  Plot of the de facto settlement boundaries with geometric measures of population and density for all locations.  Include linear descriptions of all transportation facilities.  Also, include a description and analysis of the system of settlements that populate your selected location.
+		-  Provide an analysis of the system of settlements sizes and relative location to one another.
+		-  Provide an analysis of the transportation network and its capacity to facilitate access across your selected area.
 
 ## Week 6 (September 21st)
 - Monday:
