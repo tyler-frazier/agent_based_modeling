@@ -21,5 +21,5 @@
 - [Justin Cross](https://justinrcross.github.io/AgentBasedModeling/)
 - [Laura Opsahl-Ong](https://hopsalong.github.io/AgentBasedModeling/)
 - [Matthew McCormack](https://msmccormack.github.io/DATA440/)
-- [Sebastian Ruiz](https://.../)
+- [Sebastian Ruiz](https://seabass1000.github.io/ABM/)
 
