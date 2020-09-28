@@ -84,7 +84,8 @@
 - Monday:
 	- Project 2: generating synthetic populations
 		- obtain [DHS data](https://dhsprogram.com/data/available-datasets.cfm), select a standard DHS survey dataset 
-		- register with DHS and login, create a new project, request access to DHS data for your selected study area, provide a description of your research
+		- register with DHS and login, create a new project, request access to DHS data for your selected study area, provide a description of your research (study) area
+		- Post your study description, including your research question, research design and data analysis plan to your GitHub page and link it to you index.  The study description should be more than 300 but not less than 2500 characters in length.
 		- import DHS data to RStudio
 		- generate synthetic households for your research area
 - Wednesday:
