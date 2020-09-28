@@ -74,15 +74,19 @@
 
 ## Week 6 (September 21st)
 - Monday:
-	- Project 2 
+	- Class cancelled - ill 
 - Wednesday:
-	- Project 2 
+	- Begin project 2: lecture, generating synthetic populations for use in agent-based models - theory and methods
 - Friday:
-	- Project 2
+	- Continue project 2: lecture, generating synthetic populations for use in agent-based models - methods and implementation
 
 ## Week 7 (September 28th)
 - Monday:
-	- Project 2 
+	- Project 2: generating synthetic populations
+		- obtain [DHS data](https://dhsprogram.com/data/available-datasets.cfm), select a standard DHS survey dataset 
+		- register with DHS and login, create a new project, request access to DHS data for your selected study area, provide a description of your research
+		- import DHS data to RStudio
+		- generate synthetic households for your research area
 - Wednesday:
 	- Project 2 
 - Friday:
