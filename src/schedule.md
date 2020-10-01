@@ -83,13 +83,27 @@
 ## Week 7 (September 28th)
 - Monday:
 	- Project 2: generating synthetic populations
-		- obtain [DHS data](https://dhsprogram.com/data/available-datasets.cfm), select a standard DHS survey dataset 
-		- register with DHS and login, create a new project, request access to DHS data for your selected study area, provide a description of your research (study) area
+		- Visit the [DHS data](https://dhsprogram.com/data/available-datasets.cfm) site, and select a standard DHS survey dataset to obtain.
+		- Register with DHS and login.  Review the [DHS video](https://dhsprogram.com/data/Access-Instructions.cfm) on how to create a new project, request access to DHS data for your selected study area, and to provide a description of your research (study) area.
 		- Post your study description, including your research question, research design and data analysis plan to your GitHub page and link it to you index.  The study description should be more than 300 but not less than 2500 characters in length.
-		- import DHS data to RStudio
-		- generate synthetic households for your research area
+		- Select a recent standard DHS survey and download the household and individual datasets.  Using the stata format (.dta) for import to RStudio typically works fine.
+
 - Wednesday:
-	- Project 2 
+	- Project 2: generating synthetic populations
+		- Review: 
+			- DHS report 
+			- questionnaire
+			- survey design
+			- .DO file 
+		- Import households survey from DHS dataset
+		- Identify:
+			- Survey weights
+			- Number of household members
+			- Location of your selected research area
+			- Gender of household members  
+			- Age of household members
+		- Post results to your GitHub pages site and link in your index
+ 
 - Friday:
 	- Project 2
 
