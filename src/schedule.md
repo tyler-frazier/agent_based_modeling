@@ -105,25 +105,31 @@
 		- Post results to your GitHub pages site and link in your index
  
 - Friday:
-	- Project 2
+	- Import your DHS data
+	- Identify predictor variables within your dataset
+	- Stretch goal: import DHS cluster GPS coordinates and randomly distribute
 
 ## Week 8 (October 5th)
 - Monday:
-	- Project 2 
+	- Clean DHS survey data for use
+	- Randomly locate each survey observation using a spatial distribution
+	- Convert and join predicted household locations with DHS household data
 - Wednesday:
-	- Project 2 
+	- Review stretch goal progress
+	- Review methods for cleaning DHS data based on each select household survey 
 - Friday:
-	- Data Science Insights
-- Saturday
-	- Project 2 due 
+	- Review survey design 
+	- Transform survey weights
+	- Specify model
 
 ## Week 9 (October 12th)
 - Monday:
-	- Project 3 
+	- Project 2 
 - Wednesday:
-	- Project 3 
+	- Project 2 
 - Friday:
-	- Project 3 
+	- Data Science Insights: Select and then investigate a new and interesting data science method. Write a brief introduction to the method including describing how it functions as well as one or two applications that relate to population, human development and/or agent-based modelling. Post your 1-2 page insight piece to your GitHub Pages site and be sure to link it back to your index. __No class presentation at this time__
+	- Project 2 due 
 
 ## Week 10 (October 19th)
 - Monday:
