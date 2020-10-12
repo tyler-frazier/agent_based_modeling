@@ -120,15 +120,20 @@
 - Friday:
 	- Review survey design 
 	- Transform survey weights
-	- Specify model
+	- Distribute households at adm0 & adm1
+	- Join spatial and survey data
 
 ## Week 9 (October 12th)
 - Monday:
-	- Project 2 
+	- Join spatial and survey data
+	- estimate error
+	- analyze adm1 data
+	- disaggregate from households to persons
 - Wednesday:
-	- Project 2 
+	- Train, test & predict 
 - Friday:
 	- Data Science Insights: Select and then investigate a new and interesting data science method. Write a brief introduction to the method including describing how it functions as well as one or two applications that relate to population, human development and/or agent-based modelling. Post your 1-2 page insight piece to your GitHub Pages site and be sure to link it back to your index. __No class presentation at this time__
+- Sunday:
 	- Project 2 due 
 
 ## Week 10 (October 19th)
