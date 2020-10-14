@@ -26,6 +26,6 @@ note .9 = .9 with bar notation
 
 |    |    |    |
 | --- | --- | --- |
-| ... | ..% | Due every ... |
-| ... | ..% | Due every ... |
-| ... | ..% | due by ... |
+| Four Data Science insights | 15% | Due every third Friday |
+| Four Individual Projects | 60% | Due every third Saturday |
+| Final Project | 25% | due by 5PM Tuesday, November 24th |
