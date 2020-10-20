@@ -142,9 +142,13 @@
 
 ## Week 10 (October 19th)
 - Monday:
-	- Project 3 
+	- Project 3
+		- Import de facto settlement boundaries from project 1
+		- Import synthetic households and persons from project 2 
 - Wednesday:
-	- Project 3 
+	- Project 3
+		- Create voronoi tesselations
+		- Introduce gravity model 
 - Friday:
 	- Project 3 
 
