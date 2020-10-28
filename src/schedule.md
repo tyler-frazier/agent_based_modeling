@@ -159,20 +159,18 @@
 	- Project 3 
 - Friday:
 	- Data Science Insights
-- Saturday
-	- Project 3 due 
 
 ## Week 12 (November 2nd)
 - Monday:
-	- Final Project 
+	- Project 3 
 - Wednesday:
-	- Final Project
+	- Project 3
 - Friday:
-	- Final Project
+	- Project 3
 
 ## Week 13 (November 9th)
 - Monday: 
-	- Final Project
+	- Project 3
 - Wednesday:
 	- Final Project
 - Friday: last day of class
