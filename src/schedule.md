@@ -1,6 +1,6 @@
 # Semester Schedule
 
-## Week 1 (August 19th)
+## Week 1 (...)
 - Wednesday: first day of class
 	- Introductions, zoom, slack, github, R & RStudio
 	- For next time:
@@ -16,7 +16,7 @@
 			- Challenge Question
 			- Create a markdown file that includes your deliverables and a brief explanation about your plots; include a link to this file on your GitHub index page
 
-## Week 2 (August 24st)
+## Week 2 (...)
 - Monday:
 	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems 
 	- Working with GitHub Desktop
@@ -28,7 +28,7 @@
 		- [Extracting Populations from a Raster and Aggregating to each Unit](https://tyler-frazier.github.io/dsbook/describe.html#extracting-populations-from-a-raster-and-aggregating-to-each-unit)
 - Friday: add/drop period ends
 
-## Week 3 (August 31st)
+## Week 3 (...)
 - Monday:
 	- Project 1, Part 1 - site selection. [Creating a Geometric Bar Plot with your Simple Feature object](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
 		- Select a location. Produce a spatial statistical description of your selected areas administrative subdivisions. Also produce an a accompanying geometric bar plot that also describes the population of your selected administrative subdivisions.
@@ -46,7 +46,7 @@
 		- Increase the scope of your investigation by adding an additional administrative unit or applying the previous exercise to the parent administrative subdivision.
 		- Stretch goal: apply Zipf's law
 
-## Week 4 (September 7th) 
+## Week 4 (...) 
 - Monday:
 	- Project 1, Part 1 continued (Accessibility 1)
 - Wednesday:
@@ -56,7 +56,7 @@
 	- Project 1, Part 2 [Accessibility 3 - Topography](https://tyler-frazier.github.io/dsbook/topography.html) (optional stretch goal)
 
 
-## Week 5 (September 14th)
+## Week 5 (...)
 - Monday:
 	- Project 1, Parts 1,2 & 3 - workshop 
 		- measures of access 
@@ -72,7 +72,7 @@
 		-  Provide an analysis of the system of settlements sizes and relative location to one another.
 		-  Provide an analysis of the transportation network and its capacity to facilitate access across your selected area.
 
-## Week 6 (September 21st)
+## Week 6 (...)
 - Monday:
 	- Class cancelled - ill 
 - Wednesday:
@@ -80,7 +80,7 @@
 - Friday:
 	- Continue project 2: lecture, generating synthetic populations for use in agent-based models - methods and implementation
 
-## Week 7 (September 28th)
+## Week 7 (...)
 - Monday:
 	- Project 2: generating synthetic populations
 		- Visit the [DHS data](https://dhsprogram.com/data/available-datasets.cfm) site, and select a standard DHS survey dataset to obtain.
@@ -109,7 +109,7 @@
 	- Identify predictor variables within your dataset
 	- Stretch goal: import DHS cluster GPS coordinates and randomly distribute
 
-## Week 8 (October 5th)
+## Week 8 (...)
 - Monday:
 	- Clean DHS survey data for use
 	- Randomly locate each survey observation using a spatial distribution
@@ -123,7 +123,7 @@
 	- Distribute households at adm0 & adm1
 	- Join spatial and survey data
 
-## Week 9 (October 12th)
+## Week 9 (...)
 - Monday:
 	- Join spatial and survey data
 	- estimate error
@@ -140,7 +140,7 @@
 		-  Provide a written description of your spatially located households at the adm1 or adm2 level of your selected location, again including how you located each household, generated the household structure including demographic attributes of persons, and the percent error calculated.  Further analyze your synthetically generated households and persons with regard to percent error.  Do you think this population is more or less accurate than the one generated at the adm0 level? What could you have done to improve your measures of accuracy?
 		- When compared to a randomly generated synthetic population that describes the demographic attributes of households and persons, does yours more closely approximate reality? How is yours an improvement over a synthetic population that was generated in accordance with complete spatial randomness?  Generate plots and incorporate results from your work as evidence in support of an argument that the synthetic population you generated is a good approximation of the reality that existed in your selected location at that given time.
 
-## Week 10 (October 19th)
+## Week 10 (...)
 - Monday:
 	- Project 3
 		- Import de facto settlement boundaries from project 1
@@ -152,7 +152,7 @@
 - Friday:
 	- Project 3 
 
-## Week 11 (October 26th)
+## Week 11 (...)
 - Monday:
 	- Project 3 
 - Wednesday:
@@ -160,7 +160,7 @@
 - Friday:
 	- Data Science Insights
 
-## Week 12 (November 2nd)
+## Week 12 (...)
 - Monday:
 	- Project 3 
 - Wednesday:
@@ -168,7 +168,7 @@
 - Friday:
 	- Project 3
 
-## Week 13 (November 9th)
+## Week 13 (...)
 - Monday: 
 	- Project 3
 - Wednesday:

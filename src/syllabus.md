@@ -1,3 +1,27 @@
+# DATA 441: Agent-Based Modelling
+
+Course ID: DATA 441   
+Course Attribute: COLL 400  
+Title: Agent-Based Modeling: Simulating Human Development Processes at Regional Scales  
+Credit Hours: 3  
+Meeting Times: TBD  
+Location: ISC TBD  
+Date Range: Fall Semester 2021
+
+# Course Description
+
+In this course, students will use openly accessible, global, near present-time, high-resolution satellite, household survey and CDR data, with machine learning and spatial statistics methodologies to construct agent-based models of human development processes. Each student will select and describe an administrative subdivision, its demographics, and its built and natural environments in order to estimate social and economic, complex and adapting, agent-based decision, movement and land use models. Students will construct modules that project demand for infrastructure (transportation, water, and electricity) and social services (health care, education, and public safety) as well as simulate an infectious disease outbreak, a natural disaster and unabated urbanization. The programming languages python and R will be used in this course.
+
+Pre-requisite(s): CSCI 140 or CSCI 141 and DATA 146 and MATH 112 or MATH 132
+
+# Courses Objectives
+
+- To use state of the art data science methodolgies to generate close-to-reality synthetic population data
+- To use state of the art data science methods to accurately, spatially locate synthetically generated populations
+- To use state of the art data science methods to recreate the natural and built environments where those populations reside
+- To use state of the art data science methods to predict land use and transport activities
+- To use state of the art data science methods to predict social service and infrastructure demand.
+
 # Honor Code
 Among our most significant traditions is the student-administered honor system. The Honor Code is an enduring tradition with a documented history that originates as far back as 1736. The essence of our honor system is individual responsibility. Today, students, such as yourself, administer the Honor pledge to each incoming student while also serving to educate faculty and administration on the relevance of the Code and its application to students’ lives.
 
