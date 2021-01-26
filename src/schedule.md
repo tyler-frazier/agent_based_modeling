@@ -2,37 +2,46 @@
 
 ## Week 1 (...)
 - Wednesday: first day of class
-	- Introductions, zoom, slack, github, R & RStudio
+	- Introductions 
+	  	- Zoom, Slack & Blackboard
+	  	- GitHub, Markdown & Webstorm
+	  	- Homebrew (Mac) & Chocolatey (Windows)
+	  	- R & RStudio
+	  	- Python & PyCharm 
 	- For next time:
-		- [Getting Started with GitHub](https://tyler-frazier.github.io/dsbook/gitstart.html)
-		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
-			- install R & RStudio
+	  	- [Getting Started with Homebrew or Chocolatey](https://tyler-frazier.github.io/dsbook/manager.html)
+		- [Getting Started with GitHub, Markdown & Webstorm](https://tyler-frazier.github.io/dsbook/gitstart.html)
 - Friday:
-	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems
-	- For next time
+	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems (1)
+	- Vignette using homebrew or chocolatey
+  	- Vignette using GitHub, Markdown & Webstorm (1)
+	- For next time:
 		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
-			- Creating and Plotting Objects
-			- Creating a More Complicated Plot while also creating and then using a Data Frame
-			- Challenge Question
-			- Create a markdown file that includes your deliverables and a brief explanation about your plots; include a link to this file on your GitHub index page
+		- [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 
 ## Week 2 (...)
 - Monday:
-	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems 
-	- Working with GitHub Desktop
-	- For next time
-		- [Projecting, Plotting and Labelling Administrative Subdivisions](https://tyler-frazier.github.io/dsbook/describe.html#projecting-plotting-and-labelling-administrative-subdivisions)
+	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems (2)
+	- Vignette using R & RStudio (1)
+	- Vignette using Python & PyCharm (1)
+	- For next time:
+		- ...
 - Wednesday:
-	- Review selected locations, discuss computational limits of R relative to population and development data science methods
-	- For next time
-		- [Extracting Populations from a Raster and Aggregating to each Unit](https://tyler-frazier.github.io/dsbook/describe.html#extracting-populations-from-a-raster-and-aggregating-to-each-unit)
+  - Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems (3)
+  	- Vignette using R & RStudio (2)
+	- Vignette using Python & PyCharm (2)
+	- For next time:
+		- ...
 - Friday: add/drop period ends
+  	- Vignette using R & RStudio (3)
+	- For next time:
+		- ...
 
 ## Week 3 (...)
 - Monday:
 	- Project 1, Part 1 - site selection. [Creating a Geometric Bar Plot with your Simple Feature object](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
 		- Select a location. Produce a spatial statistical description of your selected areas administrative subdivisions. Also produce an a accompanying geometric bar plot that also describes the population of your selected administrative subdivisions.
-		- Select a subdivision from within your initially selectected location that will be the bases for your agent-based model.  Set the boundary of your selected location such that the aggregate population is between 250,000 and 400,000 persons.  
+		- Select a subdivision from within your initially selected location that will be the bases for your agent-based model.  Set the boundary of your selected location such that the aggregate population is between 250,000 and 400,000 persons.  
 		- Return to the previous exercise and repeat it, although this time produce the spatial statistical description and accompanying geometric barplot for your newly selected, higher resolution focus area with its increased scale.
 		- Do your best to include all administrative subdivisions available.  If a simple feature object that describes higher resolution administrative subdivisions in their disaggregate (i.e. adm2, adm3 or adm4) is not available from GADM, check other source (geoBoundaries).  Additionally, if higher resolution administrative subdivisions are not available, include all of the bordering subdivisions when generating your newly created units spatial description and accompanying bar plot.
 - Wednesday:
