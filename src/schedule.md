@@ -1,7 +1,7 @@
 # Semester Schedule
 
 ## Week 1 (...)
-- Wednesday: first day of class
+- Wednesday:
 	- Introductions 
 	  	- Zoom, Slack & Blackboard
 	  	- GitHub, Markdown & Webstorm
