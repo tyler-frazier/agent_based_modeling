@@ -6,7 +6,7 @@ Title: Agent-Based Modeling: Simulating Human Development Processes at Regional 
 Credit Hours: 3  
 Meeting Times: TBD  
 Location: ISC TBD  
-Date Range: Fall Semester 2021
+Date: Fall Semester 2021
 
 # Course Description
 
