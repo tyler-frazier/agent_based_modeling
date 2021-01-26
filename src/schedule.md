@@ -67,14 +67,11 @@
 ## Week 7 (...)
 - Monday:
 	- Project 2: Generating Synthetic Populations (Part 2)
-
 - Wednesday:
 	- Project 2: Generating Synthetic Populations (Part 2)
-
 - Friday:
 	- Project 2: Generating Synthetic Populations (Part 2)
-
-
+	
 ## Week 8 (...)
 - Monday:
 	- Project 2: Generating Synthetic Populations (Part 3)
