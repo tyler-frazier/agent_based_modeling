@@ -2,7 +2,7 @@
 
 Course ID: DATA 441   
 Course Attribute: COLL 400  
-Title: Agent-Based Modeling: Simulating Human Development Processes at Regional Scales  
+Title: Agent-Based Modeling: Simulating Human Development Processes from Neighborhood to Regional Scales  
 Credit Hours: 3  
 Meeting Times: TBD  
 Location: ISC TBD  
@@ -16,7 +16,7 @@ Pre-requisite(s): CSCI 140 or CSCI 141 and DATA 146 and MATH 112 or MATH 132
 
 # Courses Objectives
 
-- To use state of the art data science methodolgies to generate close-to-reality synthetic population data
+- To use state of the art data science methodologies to generate close-to-reality synthetic population data
 - To use state of the art data science methods to accurately, spatially locate synthetically generated populations
 - To use state of the art data science methods to recreate the natural and built environments where those populations reside
 - To use state of the art data science methods to predict land use and transport activities
