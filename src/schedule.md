@@ -106,34 +106,35 @@
 
 ## Week 12 (...)
 - Monday:
-	- Lecture:
+	- Lecture:  Modeling Infrastructure and Social Services
 - Wednesday:
-	- Project 4: (Part 1)
+	- Project 4: Modeling Infrastructure and Social Services (Part 1)
 - Friday:
-	- Project 4: (Part 1)
+	- Project 4: Modeling Infrastructure and Social Services (Part 1)
 
 ## Week 13 (...)
 - Monday: 
-	- Project 4: (Part 2)
+	- Project 4: Modeling Infrastructure and Social Services (Part 2)
 - Wednesday:
-	- Project 4: (Part 2)
+	- Project 4: Modeling Infrastructure and Social Services (Part 2)
 - Friday: 
-	- Project 4: (Part 2)
+	- Project 4: Modeling Infrastructure and Social Services (Part 2)
 	
 ## Week 14 (...)
 - Monday:
-	- Project 4: (Part 3)
+	- Project 4: Modeling Infrastructure and Social Services (Part 3)
 - Wednesday:
-	- Project 4: (Part 3)
+	- Project 4: Modeling Infrastructure and Social Services (Part 3)
 - Friday:
-	- Project 4: (Part 3)
+	- Project 4: Modeling Infrastructure and Social Services (Part 3)
 	
 ## Week 15 (...)
 - Monday:
-	- Lecture:
+	- Lecture: Simulating Scenario Responses: Epidemics, Natural Disasters or Unplanned Urbanization
 - Wednesday:
-	- Final Project:
+	- Final Project: Simulating Scenario Responses: Epidemics, Natural Disasters or Unplanned Urbanization
 - Friday:
-	- Final Project:
+	- Final Project: Simulating Scenario Responses: Epidemics, Natural Disasters or Unplanned Urbanization
 	
 ## Final
+- Final Project is due on the last day of the finals period at 5PM.
