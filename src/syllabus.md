@@ -1,6 +1,6 @@
-# DATA 441: Agent-Based Modelling
+# DATA 444: Agent-Based Modelling
 
-Course ID: DATA 441   
+Course ID: DATA 444   
 Course Attribute: COLL 400  
 Title: Agent-Based Modeling: Simulating Human Development Processes from Neighborhood to Regional Scales  
 Credit Hours: 3  
