@@ -5,7 +5,7 @@ Course Attribute: COLL 400
 Title: Agent-Based Modeling: Simulating Human Development Processes from Neighborhood to Regional Scales  
 Credit Hours: 3  
 Meeting Times: 1:00 to 1:50  
-Location: ISC3 1111
+Location: ISC3 1111  
 Date: Fall Semester 2021
 
 # Course Description
