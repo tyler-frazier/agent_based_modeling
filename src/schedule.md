@@ -21,15 +21,11 @@
 
 ## Week 2 (9/5)
 - Monday:
-	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems (2)
-	- Vignette using R & RStudio (1)
-	- Vignette using Python & PyCharm (1)
+	- R exercises
 - Wednesday:
-  - Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems (3)
-  	- Vignette using R & RStudio (2)
-	- Vignette using Python & PyCharm (2)
+	- R exercises
 - Friday: add/drop period ends
-  	- Vignette using R & RStudio (3)
+	- R exercises
 
 ## Week 3 (9/12)
 - Monday:
@@ -46,8 +42,7 @@
 	- Gravity models
 - Friday:
 	- System of settlements and de facto boundaries
-
-
+	
 ## Week 5 (9/26)
 - Monday:
 	- Begin Module 1
