@@ -1,6 +1,6 @@
 # Semester Schedule
 
-## Week 1 (...)
+## Week 1 (9/1)
 - Wednesday:
 	- Introductions 
 	  	- Zoom, Slack & Blackboard
@@ -19,7 +19,7 @@
 		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
 		- [Getting Started with Python & PyCharm](https://tyler-frazier.github.io/dsbook/pystart.html)
 
-## Week 2 (...)
+## Week 2 (9/5)
 - Monday:
 	- Introduction to Agent-Based Modeling for Complex and Adaptive Social and Economic Systems (2)
 	- Vignette using R & RStudio (1)
@@ -31,110 +31,110 @@
 - Friday: add/drop period ends
   	- Vignette using R & RStudio (3)
 
-## Week 3 (...)
+## Week 3 (9/12)
 - Monday:
-	- Project 1: Site Selection (Part 1)
+	- MATSim Basics
 - Wednesday:
-	- Project 1: Site Selection (Part 1)
+	- MATSim Basics
 - Friday:
-	- Project 1: Site Selection (Part 1)
+	- MATSim Basics
 
-## Week 4 (...) 
+## Week 4 (9/19) 
 - Monday:
-	- Project 1: Site Selection (Part 2)
+	- Synthetic population generation
 - Wednesday:
-	- Project 1: Site Selection (Part 2)
+	- Gravity models
 - Friday:
-	- Project 1: Site Selection (Part 2)
+	- System of settlements and de facto boundaries
 
 
-## Week 5 (...)
+## Week 5 (9/26)
 - Monday:
-	- Project 1: Site Selection (Part 3)
+	- Begin Module 1
 - Wednesday:
-	- Project 1: Site Selection (Part 3)
+	- Module 1
 - Friday:
-	- Project 1: Site Selection (Part 3)
+	- Module 1
 
-## Week 6 (...)
+## Week 6 (10/3)
 - Monday:
-	- Lecture: Generating Synthetic Populations for use in Agent-Based Models
+	- Module 1
 - Wednesday:
-	- Project 2: Generating Synthetic Populations (Part 1)
+	- Module 1
 - Friday:
-	- Project 2: Generating Synthetic Populations (Part 1)
+	- Insight 1
 
-## Week 7 (...)
+## Week 7 (10/10)
 - Monday:
-	- Project 2: Generating Synthetic Populations (Part 2)
+	- Begin Module 2
 - Wednesday:
-	- Project 2: Generating Synthetic Populations (Part 2)
+	- Module 2
 - Friday:
-	- Project 2: Generating Synthetic Populations (Part 2)
+	- Module 2
 	
-## Week 8 (...)
+## Week 8 (10/17)
 - Monday:
-	- Project 2: Generating Synthetic Populations (Part 3)
+	- Module 2
 - Wednesday:
-	- Project 2: Generating Synthetic Populations (Part 3)
+	- Module 2
 - Friday:
-	- Project 2: Generating Synthetic Populations (Part 3)
+	- Insight 2
 
-## Week 9 (...)
+## Week 9 (10/24)
 - Monday:
-	- Lecture: Transportation Models
+	- Begin Module 3
 - Wednesday:
-	- Project 3: Transportation Models (Part 1)
+	- Module 3
 - Friday:
-	- Project 3: Transportation Models (Part 1)
+	- Module 3
 	
-## Week 10 (...)
+## Week 10 (10/31)
 - Monday:
-	- Project 3: Transportation Models (Part 2)
+	- Module 3
 - Wednesday:
-	- Project 3: Transportation Models (Part 2)
+	- Module 3
 - Friday:
-	- Project 3: Transportation Models (Part 2)
+	- Insight 3
 
-## Week 11 (...)
+## Week 11 (11/7)
 - Monday:
-	- Project 3: Transportation Models (Part 3)
+	- Begin Module 4
 - Wednesday:
-	- Project 3: Transportation Models (Part 3)
+	- Module 4
 - Friday:
-	- Project 3: Transportation Models (Part 3)
+	- Module 4
 
-## Week 12 (...)
+## Week 12 (11/14)
 - Monday:
-	- Lecture:  Modeling Infrastructure and Social Services
+	- Module 4
 - Wednesday:
-	- Project 4: Modeling Infrastructure and Social Services (Part 1)
+	- Module 4
 - Friday:
-	- Project 4: Modeling Infrastructure and Social Services (Part 1)
+	- Module 4
 
-## Week 13 (...)
+## Week 13 (11/21)
 - Monday: 
-	- Project 4: Modeling Infrastructure and Social Services (Part 2)
+	- Final Project
 - Wednesday:
-	- Project 4: Modeling Infrastructure and Social Services (Part 2)
+	- Final Project
 - Friday: 
-	- Project 4: Modeling Infrastructure and Social Services (Part 2)
+	- Final Project
 	
-## Week 14 (...)
+## Week 14 (11/28)
 - Monday:
-	- Project 4: Modeling Infrastructure and Social Services (Part 3)
+	- Final Project
 - Wednesday:
-	- Project 4: Modeling Infrastructure and Social Services (Part 3)
+	- Final Project
 - Friday:
-	- Project 4: Modeling Infrastructure and Social Services (Part 3)
+	- Final Project
 	
-## Week 15 (...)
+## Week 15 (12/5)
 - Monday:
-	- Lecture: Simulating Scenario Responses: Epidemics, Natural Disasters or Unplanned Urbanization
+	- Final Presentation
 - Wednesday:
-	- Final Project: Simulating Scenario Responses: Epidemics, Natural Disasters or Unplanned Urbanization
+	- Final Presentation
 - Friday:
-	- Final Project: Simulating Scenario Responses: Epidemics, Natural Disasters or Unplanned Urbanization
+	- Final Presentation
 	
 ## Final
 - Final Project is due on the last day of the finals period at 5PM.
